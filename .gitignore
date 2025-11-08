@@ -1,0 +1,79 @@
+# ==============================
+# AI-Task-Optimizer Project
+# Streamlit + SQLite + Keras Models
+# ==============================
+
+# --- Python bytecode ---
+__pycache__/
+*.py[cod]
+*$py.class
+
+# --- Virtual environments ---
+venv/
+env/
+.venv/
+amdvenv/
+ENV/
+env.bak/
+
+# --- OS-generated files ---
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# --- IDE / Editor settings ---
+.vscode/
+.idea/
+*.code-workspace
+
+# --- Jupyter / Colab ---
+.ipynb_checkpoints/
+*.ipynb
+
+# --- Logs / Cache ---
+*.log
+*.tmp
+*.swp
+.cache/
+streamlit/cache/
+.streamlit/
+
+# --- Model files ---
+# Keep model files (.h5) for inference
+# Uncomment below if you want to ignore large checkpoints
+# *.ckpt
+# *.pt
+# *.pth
+# *.zip
+
+# --- Database files ---
+# (do NOT ignore *.db)
+
+# --- Environment & API Keys ---
+.env
+*.env
+.env.local
+.env.*
+
+# --- Temporary / test files ---
+*.bak
+*.old
+*.orig
+*.tmp
+*.test
+*.sample
+
+# --- Build / Distribution ---
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# --- Uploaded user images ---
+uploads/
+*.jpg
+*.jpeg
+*.png
+
+# --- Streamlit config ---
+.streamlit/secrets.toml

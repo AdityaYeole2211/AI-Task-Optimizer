@@ -1,0 +1,6 @@
+[
+  {"task_id": 1, "task": "Review open pull requests and provide code feedback"},
+  {"task_id": 2, "task": "Update internal project documentation on Confluence"},
+  {"task_id": 3, "task": "Analyze last week's product usage analytics and extract insights"},
+  {"task_id": 4, "task": "Prepare wireframes for the upcoming dashboard UI redesign"}
+]
