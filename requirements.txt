@@ -1,32 +1,32 @@
 # --- Core Framework ---
-streamlit==1.39.0
-python-dotenv==1.0.1
+streamlit
+python-dotenv
 
 # --- Machine Learning / DL ---
-tensorflow==2.15.0
-numpy==1.26.4
-h5py==3.10.0
+tensorflow
+numpy
+h5py
 
 # --- Explainability ---
-lime==0.2.0.1
+lime
 
 # --- Visualization ---
-plotly==5.24.1
-matplotlib==3.9.2
-seaborn==0.13.2
+plotly
+matplotlib
+seaborn
 
 # --- Data Handling ---
-pandas==2.2.3
+pandas
 
 # --- Database / ORM ---
-SQLAlchemy==2.0.25
+SQLAlchemy
 
 # --- Authentication / Security ---
-Werkzeug==3.0.3
+Werkzeug
 
 # --- Google Gemini (OpenAI compatible client) ---
-openai==1.42.0
+openai
 
 
 # --- Misc (safe dependencies) ---
-requests==2.32.3
+requests
